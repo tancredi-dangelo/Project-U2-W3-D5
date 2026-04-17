@@ -28,9 +28,9 @@ const createCard = function(data) {
                     <p style="height: 50px" class="card-text">${description}</p>
                     <h6 style="min-height: 30px" class="card-text">${price}$</h6>
                     <div class="card-buttons-div">
-                        <a href="detail.html" class="btn btn-sm btn-primary">View Product</a>
-                        <button class="btn btn-sm btn-primary">Add to Cart</button>
-                        <button class="btn btn-sm btn-secondary">Hide</button>
+                        <a href="detail.html" class="btn btn-sm btn-primary m-1">View Product</a>
+                        <button class="btn btn-sm btn-primary m-1">Add to Cart</button>
+                        <button class="btn btn-sm btn-secondary m-1">Hide</button>
                     </div>
                 </div>
             </div>
